@@ -1,0 +1,21 @@
+.quatity-container{
+    display: flex;
+    align-items: flex-start;
+}
+.quatity-container .input-group-prepend .btn{
+     background: #007bff;
+     color: #ffff;
+     border-radius: 5px 0 0 5px;
+     height: 40px;
+}
+.quatity-container .input-group-append .btn{
+    background: #007bff;
+    color: #ffff;
+    border-radius: 0 5px 5px 0;
+    height: 40px;
+}
+.quatity-container .input{
+    width: 15%;
+    height: 40px;
+}
+
